@@ -1,2 +1,5 @@
 # mysql
-* mysqlコンテナのテンプレート
+
+## ■What is
+
+* MySQLのDockerテンプレート
